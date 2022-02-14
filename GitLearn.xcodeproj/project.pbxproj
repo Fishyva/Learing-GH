@@ -14,6 +14,7 @@
 		BC36893A27BAF86200B668D3 /* GitLearnTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36893927BAF86200B668D3 /* GitLearnTests.swift */; };
 		BC36894427BAF86200B668D3 /* GitLearnUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36894327BAF86200B668D3 /* GitLearnUITests.swift */; };
 		BC36894627BAF86200B668D3 /* GitLearnUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36894527BAF86200B668D3 /* GitLearnUITestsLaunchTests.swift */; };
+		BC36895327BB02E200B668D3 /* gitswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36895227BB02E200B668D3 /* gitswift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BC36893F27BAF86200B668D3 /* GitLearnUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitLearnUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC36894327BAF86200B668D3 /* GitLearnUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitLearnUITests.swift; sourceTree = "<group>"; };
 		BC36894527BAF86200B668D3 /* GitLearnUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitLearnUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BC36895227BB02E200B668D3 /* gitswift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitswift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				BC36892827BAF86100B668D3 /* GitLearnApp.swift */,
 				BC36892A27BAF86100B668D3 /* ContentView.swift */,
+				BC36895227BB02E200B668D3 /* gitswift.swift */,
 				BC36892C27BAF86200B668D3 /* Assets.xcassets */,
 				BC36892E27BAF86200B668D3 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC36892B27BAF86100B668D3 /* ContentView.swift in Sources */,
+				BC36895327BB02E200B668D3 /* gitswift.swift in Sources */,
 				BC36892927BAF86100B668D3 /* GitLearnApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
