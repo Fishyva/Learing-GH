@@ -8,7 +8,7 @@
 import Foundation
 
 struct MyModel {
-    var name: String?
+    var username: String = "@Chem"
 }
 
 
